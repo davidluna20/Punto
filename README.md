@@ -1,2 +1,2 @@
 # Punto
-Mi rprimer proyecto maven
+Mi primer proyecto maven
